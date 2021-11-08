@@ -9,4 +9,4 @@ Highlights
 * Normality assumption of the linear regression was found to be satisfactory
 * There was no issue of the multicolinearityfor the predictive results, since all the dependencies are true for both training and test sets
 * The final results can only be used to predictive purposes only, it can't be used to understand the feature importance due to the multicolinearity effect
-* The final model with P, F, FA and sex is resulted with 92.11% R2 in predictive power
+* The final model with P, F, FA and sex is resulted with 92.11% R2 in predictive power when used to predict height
